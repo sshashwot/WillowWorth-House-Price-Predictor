@@ -8,7 +8,7 @@
 An intelligent **machine learning application** that analyzes housing data and provides real-time house price predictions through an intuitive web interface. This project demonstrates end-to-end data science workflow from exploratory data analysis to model deployment.
 
 ## 🌐 Live Demo
-👉 [House Price Predictor Web App]((https://willowworth.streamlit.app/))
+👉 [House Price Predictor Web App](https://willowworth.streamlit.app/)
 
 ## 🚀 Features
 
